@@ -25,27 +25,27 @@
                 android:orientation="vertical"
                 android:showDividers="middle">
 
-                <de.ph1b.audiobook.features.settings.DoubleSettingView
+                <diep.space.audiobook.features.settings.DoubleSettingView
                     android:id="@+id/theme"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
 
-                <de.ph1b.audiobook.features.settings.SwitchSettingView
+                <diep.space.audiobook.features.settings.SwitchSettingView
                     android:id="@+id/resumePlayback"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
 
-                <de.ph1b.audiobook.features.settings.SwitchSettingView
+                <diep.space.audiobook.features.settings.SwitchSettingView
                     android:id="@+id/resumeAfterCall"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
 
-                <de.ph1b.audiobook.features.settings.DoubleSettingView
+                <diep.space.audiobook.features.settings.DoubleSettingView
                     android:id="@+id/skipAmount"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
 
-                <de.ph1b.audiobook.features.settings.DoubleSettingView
+                <diep.space.audiobook.features.settings.DoubleSettingView
                     android:id="@+id/autoRewind"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />

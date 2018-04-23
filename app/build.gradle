@@ -1,4 +1,4 @@
-import de.ph1b.audiobook.signing.SigningDetailsProvider
+import diep.space.audiobook.signing.SigningDetailsProvider
 
 apply plugin: 'com.android.application'
 apply plugin: 'io.fabric'
@@ -12,7 +12,7 @@ android {
   compileSdkVersion buildConfig.compileSdk
 
   defaultConfig {
-    applicationId "de.ph1b.audiobook"
+    applicationId "diep.space.audiobook"
     minSdkVersion buildConfig.minSdk
     targetSdkVersion buildConfig.targetSdk
 

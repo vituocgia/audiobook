@@ -42,7 +42,7 @@
         app:layout_constraintTop_toBottomOf="@+id/title"
         tools:text="George Orwell"/>
 
-    <de.ph1b.audiobook.uitools.SquareProgressView
+    <diep.space.audiobook.uitools.SquareProgressView
         android:id="@+id/progress"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
