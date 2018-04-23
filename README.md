@@ -1,4 +1,4 @@
-Voice [![CI Status](https://circleci.com/gh/PaulWoitaschek/Voice.svg?&style=shield&circle-token=3e7023d997fb5667ed60f751f963aaaf8c1f02d4)](https://circleci.com/gh/PaulWoitaschek/Voice)
+AudioBook [![CI Status](https://circleci.com/gh/vituocgia/AudioBook.svg?&style=shield&circle-token=3e7023d997fb5667ed60f751f963aaaf8c1f02d4)](https://circleci.com/gh/vituocgia/audiobook)
 =======================
 
 <a href="https://f-droid.org/packages/diep.space.audiobook/">
@@ -39,6 +39,6 @@ The project page is on [transifex](https://www.transifex.com/vituocgia/audiobook
 Or you can start translating a new language if you speak it ;-)
 
 # License
-Copyright (C) 2014-2018 [Paul Woitaschek](http://www.diep.space/)
+Copyright (C) 2017-2018 [DiepDT](http://www.diep.space/)
 
 The license is [GnuGPLv3](https://github.com/vituocgia/audiobook/blob/master/LICENSE.md). With contributing you agree to license your code under the same conditions.
